@@ -9,7 +9,7 @@
         background-image: linear-gradient(to top,rgba(13, 7, 7, 0.705),#4C1324);
     }
     section#login{
-
+        height: 350px;
         width: 80vw;
     }
 
@@ -36,7 +36,7 @@
 
     }
     section#login{
-
+        height: 350px;
         width: 950px;
     }
 

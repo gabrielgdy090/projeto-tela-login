@@ -76,7 +76,7 @@ form >div.campo{
     background-color: rgb(105, 36, 57);
     width: 100%;
     display: block;
-    border-radius:5px;
+    border-radius:8px;
     margin: 4px 0px; 
     height: 40px; 
 }
@@ -134,5 +134,19 @@ form> a.botao > span{
 div.campo > span{
 
     color: white;
+    font-size: 2em;
+    width: 40px;
     padding-top: 5px;
+}
+
+div.campo > input{
+
+    background-color:#372B39;
+    font-size: 0.9em;
+    width: calc(100% - 45px);
+    height: 90%;
+    border: 0px;
+    border-radius: 8px;
+    padding: 4px;
+    transform: translateY(-11px);
 }
