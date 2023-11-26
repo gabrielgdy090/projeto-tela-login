@@ -32,7 +32,7 @@
 
     body{
 
-        background-image: linear-gradient(to top,rgba(13, 7, 7, 0.705),#4C1324);
+        background-image: linear-gradient(to top,rgba(13, 7, 7, 0.705),rgb(124, 32, 59));
 
     }
     section#login{
@@ -58,6 +58,7 @@
         font-size: 1.2em;
     }
     
+   
     
     
 }
